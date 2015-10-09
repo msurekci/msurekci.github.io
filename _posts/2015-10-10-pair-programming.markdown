@@ -2,7 +2,7 @@
 layout: post
 title:  "Pair programming - from a Junior's perspective"
 date:   2015-10-10
-categories: 
+categories:
 ---
 
 Pair programming eh? Knowledge sharing with each other, discussing different approaches on how to solve problems. This is the intention but, does it always end up being that way? No. Why not?
@@ -22,6 +22,7 @@ It's important that the driver (person typing) is not in control for too long ot
 Explain your thoughts. It is not easy to tell especially if you have come up with a bright idea and it hasn't hit me yet (almost always the case). It helps the observer follow what you are doing and not left trying to figure it out. It's not good to do this after you've implemented your bright idea either because by the time you do explain it I've already tired myself out so much trying to figure out what you were trying to do. Now that you say it I have to process that new thought and it gets exhausting.
 
 - Enough space and visibility
+
 You know how you need to adjust your mirrors and seat in a driving exam (and every time you are about drive) before you start driving? It's pretty much the same thing with pairing.
 
 Allocate proper space for both people and make sure it is easy to see what's on the screen.
