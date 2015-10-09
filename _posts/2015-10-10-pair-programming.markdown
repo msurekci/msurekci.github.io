@@ -34,7 +34,9 @@ When both the observer and the driver is out of ideas for a problem and are thin
 Don'ts
 
 - Try not to interrupt
+
 When the driver is explaining something it is probably best to not interrupt and wait for them to finish. As a driver it can be hard to explain the reasoning behind what you are doing as you are doing it. It makes it even harder if you start questioning it or interrupting as the observer. Even if it is incorrect in your opinion the driver should still have a chance. You can always discuss after the driver is done explaining and/or implementing then discuss a possibly better solution.
 
 - Hands off
+
 Taking the keyboard off the driver before his turn has finished is a no no. Explain it to the driver and let the driver type it for you this way they will learn. Even if it is like teaching a kid something, be patient. Try using line numbers, pointing out examples in the code or whatever you feel may help.
