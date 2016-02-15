@@ -28,6 +28,7 @@ So let's take a look at this:
 | nchar(100)| Facebook | 200 	 |
 | nvarchar()| Facebook | 16 	 |
 
+
 I started to think maybe nvarchar is not the best option and varchar is possibly better since it uses less storage space. I wasn't going to require unicode values either.
 
 I didn't stop here however, I continued to try to find out the advantages and disadvantages of these types. I won't go into too much detail before we get sidetracked but the other topics were page splits and fragmentation. I came to the decision to use the type that I thought would use less bytes and that was varchar.
