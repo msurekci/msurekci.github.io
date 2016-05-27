@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elixir - Mapsets"
+title:  "MapSet in Elixir"
 date:   2016-05-27
 categories: software development, elixir, mapset, functional programming
 ---
