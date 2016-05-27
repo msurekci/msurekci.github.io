@@ -37,7 +37,7 @@ Example in IEx:
 {% endhighlight %}
 
 ### Performance
-MapSet are really fast and is really useful when searching for something. MapSets can check existence in O(log(n)) time. Here are some stats: [MapSet evaluation](https://gist.github.com/lexmag/32977ce8fd7cb44ddefa). 
+MapSet are really fast and is really useful when searching for something. MapSets can check existence of an element in O(log(n)) time. Here are some stats: [MapSet evaluation](https://gist.github.com/lexmag/32977ce8fd7cb44ddefa). 
 
 _Note that HashSet is deprecated in the later versions of Elixir_
 
