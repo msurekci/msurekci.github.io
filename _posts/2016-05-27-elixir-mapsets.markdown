@@ -2,6 +2,7 @@
 layout: post
 title:  "MapSet in Elixir"
 date:   2016-05-27
+author: Mahmut Surekci
 categories: software development, elixir, mapset, functional programming
 ---
 
