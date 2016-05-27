@@ -5,7 +5,7 @@ date:   2016-05-27
 categories: software development, elixir, mapset, functional programming
 ---
 
-While writing some [koans](https://github.com/elixirkoans/elixir-koans) for MapSets I discovered some new information about it and thought I would share some of them here.
+While writing some [koans](https://github.com/elixirkoans/elixir-koans) for MapSet I discovered some new information about it and thought I would share some of them here.
 
 MapSet is another type of collection like lists and maps. What makes it unique is it doesn't allow duplication. 
 
@@ -37,6 +37,7 @@ Example in IEx:
 
 ### Performance
 MapSet are really fast and is really useful when searching for something. MapSets can check existence in O(log(n)) time. Here are some stats: [MapSet evaluation](https://gist.github.com/lexmag/32977ce8fd7cb44ddefa). 
+
 _Note that HashSet is deprecated in the later versions of Elixir_
 
 You may want to consider using a MapSet rather than a List when searching through a collection depending on your use case.
