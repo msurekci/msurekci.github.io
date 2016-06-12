@@ -9,8 +9,8 @@ categories: software development, c#, roman numerals, arabic numbers, numbers, k
 A common coding exercise for developers to practice their skills is the Roman Numerals to Arabic numbers conversion kata. I am going to go through this kata doing TDD.
 
 For this kata I will be using NUnit and C#. The code for this exercise is available here:
-[Roman Numerals tests]("https://github.com/msurekci/Exercises/blob/master/Exercises/UnitTest/RomanNumerals/RomanNumeralsToNumbersTests.cs") 
-[Roman Numerals implementation]("https://github.com/msurekci/Exercises/blob/master/Exercises/Exercises/RomanNumerals/RomanNumeralConverter.cs")
+- [Roman Numerals tests]("https://github.com/msurekci/Exercises/blob/master/Exercises/UnitTest/RomanNumerals/RomanNumeralsToNumbersTests.cs") 
+- [Roman Numerals implementation]("https://github.com/msurekci/Exercises/blob/master/Exercises/Exercises/RomanNumerals/RomanNumeralConverter.cs")
 
 Our first test will be to convert the roman numeral "I" to 1.
 
