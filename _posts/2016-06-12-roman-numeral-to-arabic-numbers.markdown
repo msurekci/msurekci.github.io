@@ -144,5 +144,8 @@ for (i = 0; i < romanNumerals.Count; i++)
 return result;
 ```
 
+Notice that I am removing the character after I have dealt with it. This is so we can carry on with the next characters without worrying about the previous. What may also look odd is that I am setting i to zero. This is so
+we can iterate over the roman numerals dictionary from the beginning for the new character.
+
 Now we have a solution that will work for stuff like IX, XI and so forth. However, there is a problem with this solution and it is the fact that there is no validation. The input can be "IIII" and the result would be 4. This is an incorrect roman numeral
 so it should not be dealt with initially. In Part 2 I will add some validation to the input.
